@@ -9,5 +9,5 @@ I work in retail and in the Marine Corp reserves.
 
 ![Alt text](https://github.com/jlopezvas/my-first-repo/blob/profile-picture/Profile%20pic.jpg).
 
-This is Emma, I am adding changes to the repo. I also am currently C and Java, as well as have some knowledge in Python! It appears that the image is not showing up sadly.
+This is Emma, I am adding changes to the repo. The profile picture was not showing originally, so I fixed the code in the profile picture branch and merged it into the main!
 
